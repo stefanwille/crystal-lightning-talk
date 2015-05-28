@@ -2,6 +2,13 @@
 
 # Crystal
 
+## I am Stefan Wille
+
+post@stefanwille.com
+
+https://github.com/stefanwille
+
+
 
 ## Introduction
 
@@ -25,18 +32,12 @@ How possible? Global type inference => maintain feel of dynamically typed langua
 Demo: Performance!
 
 
-==> Performance
 ==> Compile: Command line binary!
 
 
-
-
-## Why invent Crystal?
+## Who is behind Crystal?
 
 Manastech is...
-
-Their goals (abbreviated):
-* Compile to efficient native code.
 
 
 ## Why use Crystal?
