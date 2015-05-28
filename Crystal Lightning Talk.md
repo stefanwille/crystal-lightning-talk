@@ -16,15 +16,19 @@ I find people are looking for a language to complement Ruby for performance, con
 
 ## Why talk about it here at RailsGirls?
 
-Demo: Fibonacci: Ruby
-Demo: Fibonacci: Crystal
+Show code: Fibonacci: Ruby
+Show code: Fibonacci: Crystal
 ==> Syntax so ähnlich wie bei Ruby
 
-How possible? Global type inference
+How possible? Global type inference => maintain feel of dynamically typed language
+
+Demo: Performance!
 
 
+==> Performance
+==> Compile: Command line binary!
 
-Examples: Fibonacci mit und ohne Typen
+
 
 
 ## Why invent Crystal?
@@ -32,16 +36,14 @@ Examples: Fibonacci mit und ohne Typen
 Manastech is...
 
 Their goals (abbreviated):
-* Ruby-inspired syntax.
-* Never have to specify the type of a variable or method argument.
 * Compile to efficient native code.
 
 
 ## Why use Crystal?
 
+* Ruby-inspired syntax. Familiar standard library (Array, String, Enumerable...)
 * Performance -  because statically typed, Compiler
-* Familiar syntax, familiar standard library (Array, String, Enumerable...)
-* Less lines of code compared to other statically typed languages
+* Hardly ever have to specify the type of a variable or method argument.
 * Concurrency, better IO - e.g. websockets - (like Go)
 * Statically linked binaries
 
@@ -54,17 +56,11 @@ Their goals (abbreviated):
 * Websockets
 
 
-
 ## Statically linked binaries
 
 ## Concurrency Features wie Go
 
 Beispiel: spawn / channel
-
-
-## Performance: Sieve
-
-Ruby vs. Crystal
 
 
 ## Performance: Web
