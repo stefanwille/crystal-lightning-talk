@@ -1,2 +1,2 @@
-# Demo Material for Crystal Lightning Talk
+# Lightning Talk about Crystal for RailsGirls
 
